@@ -6,5 +6,9 @@
 
 module.exports = {
   /* Your site config here */
+  siteMetadata: {
+    title: "Fullstack Gatsby!",
+    description: "Monikka Edgeston",
+  },
   plugins: ["gatsby-plugin-sass"],
-}
+};
